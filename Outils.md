@@ -13,3 +13,6 @@
 
 - [Videvo](https://www.videvo.net/)
 > Des vidéos stock gratuites
+
+- [Free Music Archive](https://freemusicarchive.org/static)
+> Des musiques en Creative Commons
