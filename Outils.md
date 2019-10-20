@@ -16,3 +16,6 @@
 
 - [Free Music Archive](https://freemusicarchive.org/static)
 > Des musiques en Creative Commons
+
+- [Infogram](https://infogram.com/fr/)
+> Pour créer des infographies et des cartes
