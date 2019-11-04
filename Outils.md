@@ -33,3 +33,5 @@
 > Une gallerie interactive de graphiques et de méthodes de visualisation de données, avec des bouts de code
 - [Infogram](https://infogram.com/fr/)
 > Pour créer des infographies et des cartes
+- [Genially](https://www.genial.ly/fr)
+> Pour créer des présentations interactives et animées
