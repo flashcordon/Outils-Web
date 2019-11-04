@@ -22,6 +22,10 @@
 > Des musiques en Creative Commons
 - [Freesounds](https://freesound.org/)
 > Des effet sonores gratuits
+- [BBC sound effects](http://bbcsfx.acropolis.org.uk/)
+> Une bibliothèque d'effets sonores gratuits proposée par la BBC
+- [Quiet Planet](https://www.boomlibrary.com/quiet-planet-nature-ambience-sounds/)
+> Une bibliothèque (payante) de sons de la nature, enregistrés par Gordon Hempton
 
 ## Présentations
 
