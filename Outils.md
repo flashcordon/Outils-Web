@@ -26,6 +26,10 @@
 > Une bibliothèque d'effets sonores gratuits proposée par la BBC
 - [Quiet Planet](https://www.boomlibrary.com/quiet-planet-nature-ambience-sounds/)
 > Une bibliothèque (payante) de sons de la nature, enregistrés par Gordon Hempton
+- [Artlist.io](https://artlist.io/)
+> Un service de musiques royalty-free (16.6 dollars/mois)
+- [Epidemic sound](https://www.epidemicsound.com/)
+> Un service de musiques royalty-free (13 euros/mois)
 
 ## Présentations
 
