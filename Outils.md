@@ -35,3 +35,5 @@
 > Pour créer des infographies et des cartes
 - [Genially](https://www.genial.ly/fr)
 > Pour créer des présentations interactives et animées
+- [Wooclap](https://www.wooclap.com/fr/)
+> Pour créer des sondages en ligne en direct
