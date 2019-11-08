@@ -4,3 +4,5 @@
 > Tutoriaux pour apprendre le code
 - [School of motion](https://www.schoolofmotion.com/)
 > Cours d'animation et d'After Effects
+- [Complexity Explorer](https://www.complexityexplorer.org/)
+> Cours sur les systèmes complexes, par le Santa Fe Institute
