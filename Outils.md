@@ -41,3 +41,8 @@
 > Pour créer des présentations interactives et animées
 - [Wooclap](https://www.wooclap.com/fr/)
 > Pour créer des sondages en ligne en direct
+
+## Divers
+
+- [Comma separator online](http://www.countingcharacters.com/comma-separator-online)
+> Prend une liste excel et la convertit en liste d'éléments séparés par des virgules (utile pour les listes de Tipeurs)
