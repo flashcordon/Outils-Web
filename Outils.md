@@ -30,6 +30,8 @@
 > Un service de musiques royalty-free (16.6 dollars/mois)
 - [Epidemic sound](https://www.epidemicsound.com/)
 > Un service de musiques royalty-free (13 euros/mois)
+- [y2mate](https://www.y2mate.com/fr)
+> Pour télécharger des vidéos depuis Youtube
 
 ## Présentations
 
