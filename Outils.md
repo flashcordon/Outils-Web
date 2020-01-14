@@ -11,6 +11,8 @@
 > Pour détourer automatiquement en 5 secondes un personnage sur une photo (gratuit)
 - [Shutterstock Photo Editor](https://www.shutterstock.com/editor/home?ref=landing)
 > Outil d'édition de photo en ligne, gratuit (avec option de supression de fond automatique)
+- [Collections des musées de Paris](http://parismuseescollections.paris.fr/fr/recherche/image-libre/true?solrsort=ds_created%20desc)
+> Paris Musées met à disposition gratuitement et sans restriction d'usage plus de 150 000 reproductions numériques des œuvres des collections des musées de la ville. 
 
 ## Vidéo
 
