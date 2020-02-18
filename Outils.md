@@ -50,3 +50,5 @@
 
 - [Comma separator online](http://www.countingcharacters.com/comma-separator-online)
 > Prend une liste excel et la convertit en liste d'éléments séparés par des virgules (utile pour les listes de Tipeurs)
+- [Grafiti](https://beta.grafiti.io/)
+> Un moteur de recherche de visualisations de données
