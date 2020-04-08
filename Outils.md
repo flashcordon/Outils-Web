@@ -24,6 +24,8 @@
 > Des vidéos stock gratuites
 - [Free Music Archive](https://freemusicarchive.org/static)
 > Des musiques en Creative Commons
+- [Dig CCMixer](http://dig.ccmixter.org/?fbclid=IwAR2w_zt0u3stZslX5-HGJ1uEonrksB4R-z31Qep55eI6s7N4J3NjqF8C78A)
+> Des musiques en Creative Commons
 - [Freesounds](https://freesound.org/)
 > Des effet sonores gratuits
 - [BBC sound effects](http://bbcsfx.acropolis.org.uk/)
