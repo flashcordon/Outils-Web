@@ -15,6 +15,8 @@
 > Paris Musées met à disposition gratuitement et sans restriction d'usage plus de 150 000 reproductions numériques des œuvres des collections des musées de la ville. 
 - [Flaticon](https://www.flaticon.com/)
 > La plus vaste connexion d'images et d'icones vectorisées
+- [3D photo inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
+> Transformer une photo 2D en photo 3D
 
 ## Vidéo
 
