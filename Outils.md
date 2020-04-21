@@ -1,5 +1,13 @@
 # Outils Web
 
+## Economie de l'attention
+
+- [Minimal](https://addons.mozilla.org/fr/firefox/addon/minimal-internet-experience/)
+> Plug-in Firefox qui change le design de Facebook, Youtube et Amazon pour les rendre moins addictifs
+- [Clear this page](https://clearthis.page/)
+> Plug-in Firefox et Chrome qui ne garde d'une page que les informations pertinentes
+- [Demetricator](https://bengrosser.com/projects/twitter-demetricator/)
+> Retire tous les nombres de like et de partage de Twitter
 
 ## Ecriture
 
