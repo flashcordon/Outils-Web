@@ -1,5 +1,11 @@
 # Outils Web
 
+
+## Ecriture
+
+- [CRISCO](https://crisco2.unicaen.fr/des/)
+> Meilleur dictionnaire des synonymes, réalisé par l'Université de Caen
+
 ## Réseaux sociaux
 
 - [Buffer](https://buffer.com/)
