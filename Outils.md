@@ -1,5 +1,10 @@
 # Outils Web
 
+## Vie privée
+
+- [Ghostery](https://www.ghostery.com/fr/)
+> Bloque les publicités et les mouchards du Web
+
 ## Economie de l'attention
 
 - [Minimal](https://addons.mozilla.org/fr/firefox/addon/minimal-internet-experience/)
