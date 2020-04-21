@@ -48,6 +48,8 @@
 > Pour télécharger des vidéos depuis Youtube
 - [Unscreen](https://www.unscreen.com/)
 > Pour enlever automatiquement le fond d'une vidéo, sans fond vert !
+- [Smithsonian Librairies Image Gallery](https://library.si.edu/image-gallery)
+> Banque d'images gratuites des musées Smithsonian
 
 ## Présentations
 
