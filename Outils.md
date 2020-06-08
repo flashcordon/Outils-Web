@@ -1,5 +1,10 @@
 # Outils Web
 
+## Scientométrie
+
+- [Connected papers](https://www.connectedpapers.com/?fbclid=IwAR20oM7ujI4exDG1ny7HzDC6gTKWANruzymefn2wmBSSSpyzrkE18UJGgvk)
+> Une visualisation des articles scientifiques importants connectés à un article de votre choix.
+
 ## Vie privée
 
 - [Ghostery](https://www.ghostery.com/fr/)
