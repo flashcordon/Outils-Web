@@ -68,6 +68,8 @@
 > Pour enlever automatiquement le fond d'une vidéo, sans fond vert !
 - [Smithsonian Librairies Image Gallery](https://library.si.edu/image-gallery)
 > Banque d'images gratuites des musées Smithsonian
+- [Adobe stock](https://stock.adobe.com/fr/free?as_channel=social&as_campclass=brand&as_campaign=free-collection-reel&as_source=youtube&as_camptype=acquisition&as_audience=users&scid=b61f9a60-10b3-43b9-bc2a-2b9f62ca3eb2&mv=social&mv2=owned_social)
+> Banque de 70 000 stock photos et images vectorielles gratuites d'Adobe 
 
 ## Présentations
 
