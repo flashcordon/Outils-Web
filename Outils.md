@@ -23,6 +23,8 @@
 
 - [CRISCO](https://crisco2.unicaen.fr/des/)
 > Meilleur dictionnaire des synonymes, réalisé par l'Université de Caen
+- [KlateX](https://github.com/klatexformula/klatexformula?fbclid=IwAR2bkCVHhMzSfemuVuFLZeFz9-HQkSw9-YoQrH-O0mRXcBoIuTJhtpg6DHw)
+> Une appli qui convertit une équation LaTeX en image
 
 ## Réseaux sociaux
 
