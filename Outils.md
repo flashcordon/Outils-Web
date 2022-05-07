@@ -89,6 +89,10 @@
 - [Free Springer Ebooks](https://docs.google.com/spreadsheets/d/1HzdumNltTj2SHmCv3SRdoub8SvpIEn75fa4Q23x0keU/htmlview?usp=gmail_thread&fbclid=IwAR2oCdyv78cIaDxZIvT9ve9rtx1CXDrHINnTgVinx7zjbZR7KOi5FU6lI3o)
 > Une sélection exhaustive de tous les livres de sciences de l'éditeur Springer disponibles gratuitement et légalement sur Internet
 
+## Accessibilité
+
+- [Guide ACCESSIBILISER UN ÉVÉNEMENT POUR LE PUBLIC PORTEUR DE HANDICAPS](http://lesdevalideuses.org/wp-content/uploads/2022/04/Guide_accessibiliser-un-evenement.pdf) - collectif les Dévalideuses
+
 ## Divers
 
 - [Comma separator online](http://www.countingcharacters.com/comma-separator-online)
