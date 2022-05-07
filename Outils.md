@@ -92,6 +92,7 @@
 ## Accessibilité
 
 - [Guide ACCESSIBILISER UN ÉVÉNEMENT POUR LE PUBLIC PORTEUR DE HANDICAPS](http://lesdevalideuses.org/wp-content/uploads/2022/04/Guide_accessibiliser-un-evenement.pdf) - collectif les Dévalideuses
+- [Dos and don'ts on designing for accessibility](https://github.com/UKHomeOffice/posters/tree/master/accessibility) - Home Office UK
 
 ## Divers
 
